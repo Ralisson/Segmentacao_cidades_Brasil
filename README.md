@@ -1974,7 +1974,7 @@ pio.show(fig)
 
 ```
 
-
+![png](newplot.png)
 
 ### Análise Exploratória dos dados dos grupos
 

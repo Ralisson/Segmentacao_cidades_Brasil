@@ -6,8 +6,8 @@
 Objetivo: 
 
 
-- Classificar os municípios brasileiros com base nas informações disponíveis (utilize um algoritmo de 
-- cluster, se julgar necessário). Caracterize os grupos de municípios criado da melhor maneira possível. 
+- Classificar os municípios brasileiros com base nas informações disponíveis 
+- Caracterize os grupos de municípios criado da melhor maneira possível. 
 
 - Quais grupos de municípios deveriam ser a porta de entrada para empresa no país? Por quê?
 
